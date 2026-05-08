@@ -5,3 +5,13 @@ def add(a, b):
 def subtract(a, b):
     """Return the difference of a and b."""
     return a - b
+
+def multiply(a, b):
+    """Return the product of a and b."""
+    return a * b
+
+def divide(a, b):
+    """Return the quotient of a and b. Returns error message if dividing by zero."""
+    if b == 0:
+        return "Error: Cannot divide by zero"
+    return a / b

@@ -1,7 +1,7 @@
 # Git Practice Project
 
 ## 👤 Your Name
-*Replace with your actual name*
+SHEIKH MOHAMMAD SAADI
 
 ## 📝 Project Description
 This project demonstrates Git version control concepts including:
